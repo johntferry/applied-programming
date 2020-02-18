@@ -1,0 +1,12 @@
+In Evanston, it is currently 33.72 degrees and Overcast.
+36.03
+Extended forecast:
+
+A high temperature of 35.71 and Partly cloudy throughout the day.
+A high temperature of 24.24 and Clear throughout the day.
+A high temperature of 22.82 and Clear throughout the day.
+A high temperature of 33.51 and Clear throughout the day.
+A high temperature of 40.23 and Partly cloudy throughout the day.
+A high temperature of 39.98 and Possible light rain in the evening and overnight.
+A high temperature of 40.02 and Possible light rain in the morning and afternoon.
+{"time"=>1581919200, "summary"=>"Light rain starting in the afternoon.", "icon"=>"rain", "sunriseTime"=>1581943560, "sunsetTime"=>1581982020, "moonPhase"=>0.82, "precipIntensity"=>0.0103, "precipIntensityMax"=>0.0492, "precipIntensityMaxTime"=>1581974340, "precipProbability"=>0.84, "precipType"=>"rain", "temperatureHigh"=>36.03, "temperatureHighTime"=>1581964980, "temperatureLow"=>32.7, "temperatureLowTime"=>1582034400, "apparentTemperatureHigh"=>27.08, "apparentTemperatureHighTime"=>1581965820, "apparentTemperatureLow"=>22.78, "apparentTemperatureLowTime"=>1582034400, "dewPoint"=>29.08, "humidity"=>0.88, "pressure"=>1016.8, "windSpeed"=>11.45, "windGust"=>30.15, "windGustTime"=>1581983280, "windBearing"=>128, "cloudCover"=>0.81, "uvIndex"=>2, "uvIndexTime"=>1581962460, "visibility"=>8.589, "ozone"=>359.7, "temperatureMin"=>26.78, "temperatureMinTime"=>1581926100, "temperatureMax"=>36.03, "temperatureMaxTime"=>1581964980, "apparentTemperatureMin"=>18.95, "apparentTemperatureMinTime"=>1581929820, "apparentTemperatureMax"=>27.47, "apparentTemperatureMaxTime"=>1582005600}
